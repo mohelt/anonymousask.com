@@ -2,10 +2,10 @@ Anonymousask.com
 ======
 Anonymousask.com is a website where you can create an account, share your unique link and get asked questions anonymously from people all around the world!
 This is a PHP, HTML5, CSS3 and MYSQL project.
-======
+
 Tools used: Bootstrap, PHP-login-minimal
 
-![alt text](https://github.com/mohelt/anonymousask.com/anonymousask.PNG?raw=true)
+![alt text](https://github.com/mohelt/anonymousask.com/blob/main/anonymousask.PNG?raw=true)
 Installation:
 ======
 
